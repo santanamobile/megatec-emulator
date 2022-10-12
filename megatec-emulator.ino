@@ -14,7 +14,7 @@
 #define PINSENSOR     2
 #define TOTALWATT     300
 
-#define INFO_COMPANY TSHARA
+#define INFO_COMPANY MEGATEC
 #define INFO_MODEL   POWER123
 #define INFO_VERSION V1.0
 
